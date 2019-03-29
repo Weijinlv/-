@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#zczt{
+	font-size: 14px;
+	width: 600px;
+	margin: 0px auto;
+}
+.hui{
+	color: gray;
+}
+#ann{
+	background:#900;
+	color: white;
+	width: 150px;
+	height: 30px;
+}
+#bg{
+	width: 600px;
+}

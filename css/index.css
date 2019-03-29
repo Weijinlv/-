@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	}
+/*top*/	
+#top p{
+	float: left;
+	
+	margin-top: 0px;
+	}     
+#ttop{
+	background: #f0f5f6;
+     line-height: 29px; 
+     overflow: hidden; 
+     border-bottom: 1px solid #dde3e4;
+     font-size: 12px;
+     
+    }
+#top{
+	width: 982px;
+	margin: 0px auto;
+}
+#top li{
+ 	float: left; 
+ 	margin-right: 20px;
+ 	} 
+#top ul{float: right;} 
+a:link{color: red;}
+a:visited{color: red;}
+a{
+	text-decoration: none;
+}
+
+[type="search"]{
+	background: url(../img/search_input.gif);
+	width: 303px;
+	height: 31px;
+	float: left;
+	}
+#an{
+	background: url(../img/search_btn.gif);
+	width: 83px;
+	height: 31px;
+	float: left;
+	}
+#hone form{
+	float: right;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+#hone{
+	overflow: hidden;
+	width: 982px;
+	margin: 0px auto;
+}
+nav li{    
+        float: left;
+        margin-left: 35px;  
+        } 
+#shouye:link{color: white;}
+#shouye:visited{color: white;}	
+  
+#htwo{
+	overflow: hidden;
+	width: 982px;
+	background: #7796a3;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+	line-height: 30px;
+	margin: 0px auto;
+} 
+.weibu{
+	float: left;
+	margin-left: 90px;
+	line-height: 20px;
+	padding-top: 25px;
+}
+#dibu{
+	background:#e8e8ea ;
+	height: 120px;
+	font-size: 12px;
+	width: 982px;
+	margin: 0px auto;
+}       
+footer{text-align: center;}	

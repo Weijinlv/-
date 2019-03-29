@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#tuo{
+	width: 982px;
+	margin: 0px auto;
+	overflow: hidden;	
+}
+#tuwen{
+	float: right;
+	line-height: 29px;
+	font-size: 12px;
+}
+#kuan{
+	float:left ;
+}
+#wai{
+	width: 981px;
+	margin: 0px auto;
+}
+#beij{
+	background:#f0f5f6 ;
+}
+	
+#lmfl{
+	font-size: 14px;
+	width: 982px;
+	margin: 0px auto;
+	line-height:30px;
+	border: 1px solid gainsboro;
+	background:;
+}
+.lbdyx{
+	color: red;
+	font-weight: bold;
+}
+#nz{
+	width: 982px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+#nyc{
+	width: 270px;
+	float: right;
+	line-height: 27px;
+}

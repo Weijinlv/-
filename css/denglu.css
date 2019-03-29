@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.ziti{
+	color: gray;
+}
+#dlzt{
+	font-size: 14px;
+	width:600px;
+	margin: 0px auto;
+	line-height: 29px;
+}
+#dlan{
+	background: #900;
+	color: white;
+	width: 60px;
+	height: 30px;
+}
+form table{
+	width: 700px;
+	margin: 0px auto;
+}
